@@ -187,4 +187,3 @@ Feel free to plug in your own data to test predictions.
 
 *Author: [Sudipta Biswas]*
 
-```
